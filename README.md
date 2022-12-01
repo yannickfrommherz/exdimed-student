@@ -1,4 +1,4 @@
-# Programmieren für Geistes- und Sozialwissenschaftler:innen
+# Programmieren für Geistes- und Sozialwissenschaftler:innen 🧑‍💻
 
 In diesem Repository findest Du sog. *Jupyter Notebooks*, mit denen Du Programmieren mit Python lernen kannst. Die Notebooks richten sich an Geistes- und Sozialwissenschaftler:innen ohne Vorkenntnisse. Sie sind im Rahmen des Projekts *Experimentierraum Digitale Medienkompetenz* im Projektverbund [*Virtuelles Lehren und Lernen an der TU Dresden im Open Source-Kontext*](https://tu-dresden.de/gsw/virtuos) entstanden.
 
