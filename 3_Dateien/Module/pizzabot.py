@@ -101,7 +101,7 @@ def order_pizza():
         
         first_prompt = "Wohin darf ich Deine Pizza liefern?\nIch liefere nicht nur zu Dir nach Hause, sondern auch zu Deiner liebsten Bank im Park oder direkt an Dein Strandtuch.\nGib also eine Adresse von www.what3words.com an.\n"
         alternative_prompt = "Diesmal klappt's. Wohin darf ich Deine Pizza liefern?\n"
-        reaction_to_invalid_input = "\nSorry, diese Adresse verstehe ich nicht. Ich verstehe z.B. 'falschen.fliegen.beliebten'.\n"
+        reaction_to_invalid_input = "\nSorry, diese Adresse verstehe ich nicht. Ich verstehe aktuell nur 'falschen.fliegen.beliebten'.\n"
 
         pizza_destination = request_address(first_prompt, alternative_prompt, reaction_to_invalid_input, w3w_regex)
         
