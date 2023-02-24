@@ -18,9 +18,9 @@ def yn_validator(prompt, yes_regex, no_regex):
         answer = input(prompt)
     
         if re.fullmatch(yes_regex, answer, re.I):
-            return("yes")
+            return "yes" 
         elif re.fullmatch(no_regex, answer, re.I):
-            return("no")
+            return "no"
         else:
             time.sleep(1)
             print(reaction_to_invalid_input)
@@ -49,7 +49,7 @@ def choose_pizza(first_prompt, alternative_prompt, reaction_to_invalid_input, pi
             
         for pizza in pizzas.keys():
             if re.fullmatch(pizzas[pizza]["alternative_names"], choice, re.I):
-                return(pizza)
+                return pizza
 
 def remove_ingredient(first_prompt, alternative_prompt, reaction_to_invalid_input, ingredients, confirmation, yes_regex, no_regex):
     """Funktion gibt solange 'first_prompt' (Frage nach zu entfernender Zutat) aus, 
@@ -78,7 +78,7 @@ def remove_ingredient(first_prompt, alternative_prompt, reaction_to_invalid_inpu
         remove_another_ingredient = yn_validator(alternative_prompt, yes_regex, no_regex)
         
         if remove_another_ingredient == "no":
-            return([ingredient.capitalize() for ingredient in ingredients_lower])
+            return [ingredient.capitalize() for ingredient in ingredients_lower]
         
 def add_ingredient(first_prompt, alternative_prompt, reaction_to_invalid_input, ingredients, extra_ingredients, confirmation, yes_regex, no_regex):
     """Funktion gibt solange 'first_prompt' (Frage nach hinzuzufügender Zutat) aus, 
@@ -109,7 +109,7 @@ def add_ingredient(first_prompt, alternative_prompt, reaction_to_invalid_input, 
         add_another_ingredient = yn_validator(alternative_prompt, yes_regex, no_regex)
         
         if add_another_ingredient == "no":
-            return([ingredient.capitalize() for ingredient in ingredients_lower])
+            return [ingredient.capitalize() for ingredient in ingredients_lower]
         
 def request_address(first_prompt, alternative_prompt, reaction_to_invalid_input, w3w_regex):
     """Funktion gibt dem/r User:in einmalig 'first_prompt' aus, da 'pizza_destination' initial auf 'None' gesetzt ist und
@@ -131,7 +131,7 @@ def request_address(first_prompt, alternative_prompt, reaction_to_invalid_input,
             pizza_destination = input(alternative_prompt)
             
         if re.fullmatch(w3w_regex, pizza_destination, re.I):
-            return(pizza_destination)
+            return pizza_destination
         else:
             time.sleep(1)            
             print(reaction_to_invalid_input)

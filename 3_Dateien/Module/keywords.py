@@ -21,4 +21,4 @@ def get_freqs(text, stopwords):
 
     freq_sorted = sorted(freq_dict.items(), key = lambda x: x[1], reverse=True)
 
-    return(freq_sorted)
+    return freq_sorted
