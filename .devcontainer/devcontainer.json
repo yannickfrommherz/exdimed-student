@@ -1,0 +1,13 @@
+{
+
+    "extensions": [
+
+        "dbaeumer.vscode-eslint",
+
+        "esbenp.prettier-vscode",
+
+        "ms-vsliveshare.vsliveshare",
+      
+      ]
+  
+}
