@@ -4,7 +4,10 @@
 		"dbaeumer.vscode-eslint",
 		"esbenp.prettier-vscode",
 		"ms-vsliveshare.vsliveshare",
-		"ms-python.python"
+		"ms-python.python",
+		"ms-toolsai.jupyter",
+		"MS-CEINTL.vscode-language-pack-de",
+		"streetsidesoftware.code-spell-checker-german"
 	]
   
 }
