@@ -44,6 +44,7 @@ def remove_ingredient(first_prompt, alternative_prompt, reaction_to_invalid_inpu
         ingredient_to_be_removed = input(first_prompt).lower()
 
         if ingredient_to_be_removed in ingredients_lower:
+            time.sleep(1)
             print(confirmation)
             ingredients_lower.remove(ingredient_to_be_removed)
         else: 
@@ -65,6 +66,7 @@ def add_ingredient(first_prompt, alternative_prompt, reaction_to_invalid_input, 
         new_ingredient = input(first_prompt).lower()
 
         if new_ingredient in extra_ingredients_lower and new_ingredient not in ingredients_lower:            
+            time.sleep(1)
             print(confirmation)
             ingredients_lower.append(new_ingredient)
         else:
