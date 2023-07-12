@@ -1,6 +1,5 @@
 python=="3.11.4"
 ipykernel
-pylance
 pandas
 numpy
 tqdm
