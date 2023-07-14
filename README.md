@@ -23,7 +23,7 @@ Andererseits kannst Du die Jupyter Notebooks auch in der Cloud öffnen. Dadurch 
 3. Öffne das erste Notebook über den Dateimanager auf der linken Seite (*Explorer*). 
 4. Auch wenn die Oberfläche etwas anders ausschaut, empfiehlt es sich, dass Du Dich mithilfe dieses [Videos](https://youtu.be/89L5voKplA4) mit JupyterLab vertraut machst. 
 5. Beim allerersten Ausführen einer Code-Zelle, wirst Du zu ein paar Installationen (Python + Jupyter) sowie zur Auswahl eines sog. *Kernels* aufgefordert. Befolge diese Schritte, die nur wenige Sekunden dauern sollten, bis sich die Code-Zelle ausführen lässt. 
-6. [Hier](https://github.com/codespaces) kannst Du Deinen Codespace beim nächsten Mal öffnen. Dem Codespace wurde automatisch ein ulkiger Name zugewiesen. Beachte: Dein Codespace wird nach 30 Tagen Inaktivität automatisch gelöscht, es sei denn, Du verhinderst dies wie [hier](https://docs.github.com/de/codespaces/customizing-your-codespace/configuring-automatic-deletion-of-your-codespaces) beschrieben.
+6. [Hier](https://github.com/codespaces) kannst Du Deinen Codespace beim nächsten Mal öffnen. Dem Codespace wurde automatisch ein ulkiger Name zugewiesen. Beachter: Dein Codespace wird nach 30 Tagen Inaktivität automatisch gelöscht, es sei denn, Du verhinderst dies wie [hier](https://docs.github.com/de/codespaces/customizing-your-codespace/configuring-automatic-deletion-of-your-codespaces) beschrieben.
 
 
 ## 💡 Noch ein paar Infos
