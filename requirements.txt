@@ -1,5 +1,7 @@
+python=="3.11.4"
 ipykernel
 pandas
 numpy
 tqdm
 matplotlib
+wikipediaapi

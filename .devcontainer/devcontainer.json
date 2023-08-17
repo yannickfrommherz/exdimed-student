@@ -21,11 +21,11 @@
 		  // Add the IDs of extensions you want installed when the container is created.
 		  "extensions": [
 			"dbaeumer.vscode-eslint",
-        	"esbenp.prettier-vscode",
-        	"ms-vsliveshare.vsliveshare",
 			"ms-python.python",
-        	"ms-toolsai.jupyter",
-        	"MS-CEINTL.vscode-language-pack-de"
+        		"esbenp.prettier-vscode",
+        		"ms-vsliveshare.vsliveshare",
+        		"ms-toolsai.jupyter",
+        		"MS-CEINTL.vscode-language-pack-de"
 				  ]
 		}
 	},
