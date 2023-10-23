@@ -1,4 +1,4 @@
-python=="3.10.8"
+python=="3.12.0"
 ipykernel
 pandas
 numpy
@@ -6,3 +6,4 @@ tqdm
 matplotlib
 wikipediaapi
 gdown
+gensim
