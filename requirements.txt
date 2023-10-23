@@ -5,5 +5,4 @@ numpy
 tqdm
 matplotlib
 wikipediaapi
-gdown
-gensim
+
