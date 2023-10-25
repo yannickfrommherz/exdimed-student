@@ -9,7 +9,7 @@
 	// "features": {},
 
 	"waitFor": "onCreateCommand",
-  	"updateContentCommand": "python3 -m pip install -r requirements.txt",
+  	"updateContentCommand": "python3 -m pip3 install -r requirements.txt",
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
