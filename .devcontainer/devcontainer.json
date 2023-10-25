@@ -1,11 +1,10 @@
 {
+  "name": "Python 3",
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "hostRequirements": {
-    "cpus": 4
   },
   "waitFor": "onCreateCommand",
   "updateContentCommand": "python3 -m pip install -r requirements.txt",
-  "postCreateCommand": "",
+  "postCreateCommand": "postCreateCommand": "pip3 install -r requirements.txt",
   "customizations": {
     "codespaces": {
       "openFiles": []
