@@ -6,3 +6,4 @@ matplotlib==3.7.0
 gensim==4.3.2
 nltk==3.8.1
 wikipedia-api==0.6.0
+gdown==4.7.1
