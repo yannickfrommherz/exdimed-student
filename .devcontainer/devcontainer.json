@@ -8,13 +8,12 @@
   "postCreateCommand": "",
   "customizations": {
     "codespaces": {
-      "openFiles": []
+      "openFiles": ["README.md", "1_Notebooks/1_Einfuehrung.ipynb"]
     },
     "vscode": {
       "extensions": [
         "ms-toolsai.jupyter",
         "ms-python.python",
-        "ms-vsliveshare.vsliveshare",
         "MS-CEINTL.vscode-language-pack-de"
       ]
     }
