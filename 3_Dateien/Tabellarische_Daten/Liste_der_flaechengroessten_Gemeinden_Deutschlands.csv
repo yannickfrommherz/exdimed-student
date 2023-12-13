@@ -1,0 +1,101 @@
+Rang;Fläche in km²;Gemeinde;Status/Kreiszugehörigkeit;Land
+1;891,12;Berlin;Kreisfreie Stadt;Berlin
+2;755,09;Hamburg;Kreisfreie Stadt;Hamburg
+3;632,55;Gardelegen;Stadt im Altmarkkreis Salzwedel;Sachsen-Anhalt
+4;523,95;Möckern;Stadt im Landkreis Jerichower Land;Sachsen-Anhalt
+5;468,03;Zerbst/Anhalt;Stadt im Landkreis Anhalt-Bitterfeld;Sachsen-Anhalt
+6;420,23;Wittstock/Dosse;Stadt im Landkreis Ostprignitz-Ruppin;Brandenburg
+7;405,01;Köln;Kreisfreie Stadt;Nordrhein-Westfalen
+8;379,57;Templin;Stadt im Landkreis Uckermark;Brandenburg
+9;358,96;Neustadt am Rübenberge;Stadt in der Region Hannover;Niedersachsen
+10;356,56;Geestland;Stadt im Landkreis Cuxhaven;Niedersachsen
+11;352,12;Jessen (Elster);Stadt im Landkreis Wittenberg;Sachsen-Anhalt
+12;341,31;Nuthe-Urstromtal;Gemeinde im Landkreis Teltow-Fläming;Brandenburg
+13;334,80;Walsrode;Stadt im Landkreis Heidekreis;Niedersachsen
+14;328,48;Dresden;Kreisfreie Stadt;Sachsen
+15;328,22;Rheinsberg;Stadt im Landkreis Ostprignitz-Ruppin;Brandenburg
+16;324,23;Angermünde;Stadt im Landkreis Uckermark;Brandenburg
+17;317,83;Bremen;Kreisfreie Stadt;Bremen
+18;310,70;München;Kreisfreie Stadt;Bayern
+19;305,24;Neuruppin;Kreisstadt des Landkreises Ostprignitz-Ruppin;Brandenburg
+20;304,58;Salzwedel;Kreisstadt des Altmarkkreises Salzwedel;Sachsen-Anhalt
+21;303,28;Münster;Kreisfreie Stadt;Nordrhein-Westfalen
+22;303,10;Schmallenberg;Stadt im Hochsauerlandkreis;Nordrhein-Westfalen
+23;297,80;Leipzig;Kreisfreie Stadt;Sachsen
+24;295,75;Coswig (Anhalt);Stadt im Landkreis Wittenberg;Sachsen-Anhalt
+25;294,83;Tangerhütte;Stadt im Landkreis Stendal;Sachsen-Anhalt
+26;289,47;Bismark (Altmark);Stadt im Landkreis Stendal;Sachsen-Anhalt
+27;280,71;Dortmund;Kreisfreie Stadt;Nordrhein-Westfalen
+28;278,31;Klötze;Stadt im Altmarkkreis Salzwedel;Sachsen-Anhalt
+29;275,52;Bad Berleburg;Stadt im Kreis Siegen-Wittgenstein;Nordrhein-Westfalen
+30;272,85;Kalbe (Milde);Stadt im Altmarkkreis Salzwedel;Sachsen-Anhalt
+31;271,52;Oberharz am Brocken;Stadt im Landkreis Harz;Sachsen-Anhalt
+32;270,41;Fehrbellin;Gemeinde im Landkreis Ostprignitz-Ruppin;Brandenburg
+33;269,93;Jerichow;Stadt im Landkreis Jerichower Land;Sachsen-Anhalt
+35;269,91;Erfurt;Kreisfreie Stadt;Thüringen
+34;269,70;Arendsee (Altmark);Stadt im Altmarkkreis Salzwedel;Sachsen-Anhalt
+36;268,14;Nauen;Stadt im Landkreis Havelland;Brandenburg
+37;268,08;Stendal;Kreisstadt des Landkreises Stendal;Sachsen-Anhalt
+38;258,83;Bielefeld;Kreisfreie Stadt;Nordrhein-Westfalen
+39;254,32;Nordwestuckermark;Gemeinde im Landkreis Uckermark;Brandenburg
+40;253,95;Melle;Stadt im Landkreis Osnabrück;Niedersachsen
+41;253,55;Karstädt;Gemeinde im Landkreis Prignitz;Brandenburg
+42;252,19;Schwedt/Oder;Stadt im Landkreis Uckermark;Brandenburg
+43;250,76;Groß Pankow (Prignitz);Gemeinde im Landkreis Prignitz;Brandenburg
+44;249,30;Oebisfelde-Weferlingen;Stadt im Landkreis Börde;Sachsen-Anhalt
+45;248,31;Frankfurt am Main;Kreisfreie Stadt;Hessen
+46;247,49;Friesoythe;Stadt im Landkreis Cloppenburg;Niedersachsen
+47;245,43;Löwenberger Land;Gemeinde im Landkreis Oberhavel;Brandenburg
+48;244,71;Dessau-Roßlau;Kreisfreie Stadt;Sachsen-Anhalt
+49;242,84;Lenggries;Gemeinde im Landkreis Bad Tölz-Wolfratshausen;Bayern
+50;240,41;Lutherstadt Wittenberg;Kreisstadt des Landkreises Wittenberg;Sachsen-Anhalt
+51;238,18;Schorfheide;Gemeinde im Landkreis Barnim;Brandenburg
+52;237,96;Amt Neuhaus;Gemeinde im Landkreis Lüneburg;Niedersachsen
+53;236,38;Südharz;Gemeinde im Landkreis Mansfeld-Südharz;Sachsen-Anhalt
+54;236,07;Bad Belzig;Kreisstadt des Landkreises Potsdam-Mittelmark;Brandenburg
+55;235,22;Kemberg;Stadt im Landkreis Wittenberg;Sachsen-Anhalt
+56;234,92;Schneverdingen;Stadt im Landkreis Heidekreis;Niedersachsen
+57;233,83;Baruth/Mark;Stadt im Landkreis Teltow-Fläming;Brandenburg
+58;232,80;Duisburg;Kreisfreie Stadt;Nordrhein-Westfalen
+59;231,92;Einbeck;Stadt im Landkreis Northeim;Niedersachsen
+60;230,74;Genthin;Stadt im Landkreis Jerichower Land;Sachsen-Anhalt
+61;229,91;Oberstdorf;Markt im Landkreis Oberallgäu;Bayern
+62;229,80;Osterburg (Altmark);Stadt im Landkreis Stendal;Sachsen-Anhalt
+63;229,71;Brandenburg an der Havel;Kreisfreie Stadt;Brandenburg
+64;229,16;Brilon;Stadt im Hochsauerlandkreis;Nordrhein-Westfalen
+65;226,43;Hamm;Kreisfreie Stadt;Nordrhein-Westfalen
+66;225,83;Wittingen;Stadt im Landkreis Gifhorn;Niedersachsen
+67;224,49;Salzgitter;Kreisfreie Stadt;Niedersachsen
+68;224,28;Annaburg;Stadt im Landkreis Wittenberg;Sachsen-Anhalt
+69;223,06;Zehdenick;Stadt im Landkreis Oberhavel;Brandenburg
+70;221,05;Chemnitz;Kreisfreie Stadt;Sachsen
+71;220,19;Wiesenburg/Mark;Gemeinde im Landkreis Potsdam-Mittelmark;Brandenburg
+72;218,50;Meschede;Kreisstadt des Hochsauerlandkreises;Nordrhein-Westfalen
+73;218,24;Grimma;Stadt im Landkreis Leipzig;Sachsen
+74;217,68;Boxberg/O.L.;Gemeinde im Landkreis Görlitz;Sachsen
+75;217,41;Düsseldorf;Kreisfreie Stadt;Nordrhein-Westfalen
+76;217,38;Boitzenburger Land;Gemeinde im Landkreis Uckermark;Brandenburg
+77;216,21;Grafenwöhr;Stadt im Landkreis Neustadt a.d.Waldnaab;Bayern
+78;215,04;Schenkendöbern;Gemeinde im Landkreis Spree-Neiße;Brandenburg
+79;214,19;Lübeck;Kreisfreie Stadt;Schleswig-Holstein
+80;213,85;Fürstenberg/Havel;Stadt im Landkreis Oberhavel;Brandenburg
+81;213,16;Gumtow;Gemeinde im Landkreis Prignitz;Brandenburg
+82;212,91;Osterwieck;Stadt im Landkreis Harz;Sachsen-Anhalt
+83;212,43;Treuenbrietzen;Stadt im Landkreis Potsdam-Mittelmark;Brandenburg
+84;211,94;Petershagen;Stadt im Kreis Minden-Lübbecke;Nordrhein-Westfalen
+85;211,55;Märkische Heide;Gemeinde im Landkreis Dahme-Spreewald;Brandenburg
+86;210,34;Essen;Kreisfreie Stadt;Nordrhein-Westfalen
+87;210,16;Wittmund;Kreisstadt des Landkreises Wittmund;Niedersachsen
+88;209,55;Kremmen;Stadt im Landkreis Oberhavel;Brandenburg
+89;208,79;Haren (Ems);Stadt im Landkreis Emsland;Niedersachsen
+90;207,66;Sangerhausen;Kreisstadt des Landkreises Mansfeld-Südharz;Sachsen-Anhalt
+91;207,64;Heiligengrabe;Gemeinde im Landkreis Ostprignitz-Ruppin;Brandenburg
+92;207,44;Luckau;Stadt im Landkreis Dahme-Spreewald;Brandenburg
+93;207,33;Stuttgart;Stadtkreis;Baden-Württemberg
+94;205,77;Niedergörsdorf;Gemeinde im Landkreis Teltow-Fläming;Brandenburg
+95;205,66;Garmisch-Partenkirchen;Markt, Kreishauptort des gleichnamigen Landkreises;Bayern
+96;204,61;Wolfsburg;Kreisfreie Stadt;Niedersachsen
+97;204,30;Hannover;Stadt der Region Hannover;Niedersachsen
+98;203,87;Wiesbaden;Kreisfreie Stadt;Hessen
+99;203,77;Soltau;Stadt im Landkreis Heidekreis;Niedersachsen
+100;202,32;Spremberg;Stadt im Landkreis Spree-Neiße;Brandenburg
