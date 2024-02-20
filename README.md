@@ -30,3 +30,4 @@ Andererseits kannst Du die Jupyter Notebooks auch in der Cloud öffnen. Dadurch 
 
 - Optional, aber empfohlen: Übe [Algorithmisches Denken](https://youtu.be/L_qV6G1WKoQ), bevor Du mit Programmierenlernen loslegst.
 - Im Ordner *2_Cheat_Sheets* findest Du Zusammenfassungen der wichtigsten Befehle.
+- [Feeback und Fragen sind willkommen!](https://forms.gle/VsYJgy4bZTSqKioA7)
