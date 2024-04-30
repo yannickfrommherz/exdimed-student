@@ -1,6 +1,8 @@
 def get_freqs(text, stopwords):
     """Takes in text as string and stopwords as list, returns frequency for all types in text, excluding stopwords."""
 
+    from tqdm import tqdm
+
     words = text.split()
 
     preprocessed_words = []
