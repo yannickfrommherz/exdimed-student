@@ -1,0 +1,15 @@
+pandas==2.2.1
+nltk==3.8.1
+hanta==1.1.1
+spacy==3.7.2
+stanza==1.8.2
+torch==2.3.0
+germansentiment==1.1.0
+transformers==4.38.0
+ipywidgets==8.1.2
+numpy==1.26.4
+matplotlib==3.8.4
+beautifulsoup4==4.12.2 
+tqdm==4.66.4
+wikipedia-api==0.6.0
+pickleshare==0.7.5
