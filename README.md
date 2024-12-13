@@ -31,3 +31,4 @@ Andererseits kannst Du die Jupyter Notebooks auch in der Cloud öffnen. Dadurch 
 - Optional, aber empfohlen: Übe [Algorithmisches Denken](https://youtu.be/L_qV6G1WKoQ), bevor Du mit Programmierenlernen loslegst.
 - Im Ordner *2_Cheat_Sheets* findest Du Zusammenfassungen der wichtigsten Befehle.
 - [Feedback und Fragen sind willkommen!](https://forms.gle/VsYJgy4bZTSqKioA7)
+- Alle Materialien zum Programmierenlernen für Geistes- und Sozialwissenschaftler:innen sind im Rahmen des Projekts Experimentierraum Digitale Medienkompetenz als Teil von virTUos entstanden. Erstellt wurden sie von Yannick Frommherz und von Anne Josephine Matz. Sie stehen als Open Educational Resource nach CC BY SA zur freien Verfügung. 
