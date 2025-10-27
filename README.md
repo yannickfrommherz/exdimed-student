@@ -11,7 +11,7 @@ Andererseits kannst Du die Jupyter Notebooks auch in der Cloud öffnen. Dadurch 
 ### 💻 Lokale Installation
 
 1. Lade alle Dateien dieses Repositories herunter, indem Du auf den grünen Button `Code` klickst und unter `Local` auf `Download ZIP` drückst. Entpacke die zip-Datei nach dem Download und speichere alle darin befindlichen Dateien an einem sinnvollen Ort. Verändere die Ordnerstruktur nicht!
-2. [Installiere Python und JupyterLab](https://youtu.be/7kc7IjJ731g) auf Deinem Computer.
+2. [Installiere Python und JupyterLab](https://youtu.be/7kc7IjJ731g) auf Deinem Computer. Achtung: Unter Windows hat sich die Installation zwischenzeitlich verändert. Lass Dich am besten von KI unterstützen und achte, wie im Video beschrieben darauf, Python zum sog. *PATH* hinzuzufügen.  
 3. [Mache Dich mit JupyterLab vertraut](https://youtu.be/89L5voKplA4).
 4. Starte einen JupyterLab Server, indem Du die Command Line öffnest (Windows: *cmd*, macOS/Linux: *Terminal*), `jupyter lab` eintippst und auf `Enter` drückst. JupyterLab öffnet sich im Browser. Der Server kann fortan über die angegebene Adresse (i. d. R. über [localhost:8888/...](http://localhost:8888/lab)) aufgerufen werden, solange das Fenster der Command Line nicht geschlossen wird oder der Server anderweitig heruntergefahren wird. Nach Herunterfahren des Servers kann dieser wie hier beschrieben erneut gestartet werden. 
 5. Öffne das erste Notebook über den in JupyterLab integrierten Dateimanager und leg los.
